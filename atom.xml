@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-30T17:06:36.587Z</updated>
+  <updated>2020-05-31T14:16:27.644Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020-05-31</title>
+    <link href="http://yoursite.com/2020/05/31/2020-05-31/"/>
+    <id>http://yoursite.com/2020/05/31/2020-05-31/</id>
+    <published>2020-05-31T14:14:18.758Z</published>
+    <updated>2020-05-31T14:16:27.644Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test-for-posts"><a href="#Test-for-posts" class="headerlink" title="Test for posts"></a>Test for posts</h1><p>使用 hexo g -d 命令直接发布</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Test-for-posts&quot;&gt;&lt;a href=&quot;#Test-for-posts&quot; class=&quot;headerlink&quot; title=&quot;Test for posts&quot;&gt;&lt;/a&gt;Test for posts&lt;/h1&gt;&lt;p&gt;使用 hexo g -d 命令直接发布&lt;/p
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
