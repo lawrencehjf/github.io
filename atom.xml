@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-01T03:28:23.075Z</updated>
+  <updated>2020-06-01T04:35:48.413Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/06/01/2020-06-01/"/>
     <id>http://yoursite.com/2020/06/01/2020-06-01/</id>
     <published>2020-06-01T02:58:06.102Z</published>
-    <updated>2020-06-01T03:28:23.075Z</updated>
+    <updated>2020-06-01T04:35:48.413Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>程序员修炼之道：从小工到专家.pdf《wuchong.me 微博推荐》</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>《程序员修炼之道：从小工到专家.pdf》wuchong.me 微博推荐<br>《后端架构师技术图谱》<a href="https://github.com/xingshaocheng/architect-awesome" target="_blank" rel="noopener">https://github.com/xingshaocheng/architect-awesome</a></p>]]></content>
     
     <summary type="html">
     
