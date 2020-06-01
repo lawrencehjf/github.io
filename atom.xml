@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-01T04:35:48.413Z</updated>
+  <updated>2020-06-01T08:39:32.491Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2020-06-01-1</title>
+    <link href="http://yoursite.com/2020/06/01/2020-06-01-1/"/>
+    <id>http://yoursite.com/2020/06/01/2020-06-01-1/</id>
+    <published>2020-06-01T04:38:48.582Z</published>
+    <updated>2020-06-01T08:39:32.491Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo是怎么工作的"><a href="#hexo是怎么工作的" class="headerlink" title="hexo是怎么工作的"></a>hexo是怎么工作的</h1><p><a href="http://coderunthings.com/2017/08/20/howhexoworks/" target="_blank" rel="noopener">http://coderunthings.com/2017/08/20/howhexoworks/</a></p><p>#hexo原理浅析<br><a href="https://segmentfault.com/a/1190000008784436" target="_blank" rel="noopener">https://segmentfault.com/a/1190000008784436</a></p><p>#个人计划：<br>学习一下前端，看能否开发出来一套Mac+web+backend端的博客前后台管理系统来。<br>目标：能够在web/Mac端方便自己及时登录在线写blog，并且实时更新同步到自己的blog上来。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;hexo是怎么工作的&quot;&gt;&lt;a href=&quot;#hexo是怎么工作的&quot; class=&quot;headerlink&quot; title=&quot;hexo是怎么工作的&quot;&gt;&lt;/a&gt;hexo是怎么工作的&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://coderunthings.com/2017
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>2020-06-01</title>
     <link href="http://yoursite.com/2020/06/01/2020-06-01/"/>
     <id>http://yoursite.com/2020/06/01/2020-06-01/</id>
     <published>2020-06-01T02:58:06.102Z</published>
-    <updated>2020-06-01T04:35:48.413Z</updated>
+    <updated>2020-06-01T04:38:27.206Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>《程序员修炼之道：从小工到专家.pdf》wuchong.me 微博推荐<br>《后端架构师技术图谱》<a href="https://github.com/xingshaocheng/architect-awesome" target="_blank" rel="noopener">https://github.com/xingshaocheng/architect-awesome</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>《程序员修炼之道：从小工到专家.pdf》<br>    wuchong.me 微博推荐<br>《后端架构师技术图谱》<br>       [吴俊笔记本] <a href="https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/" target="_blank" rel="noopener">https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/</a><br>        <a href="https://github.com/xingshaocheng/architect-awesome" target="_blank" rel="noopener">https://github.com/xingshaocheng/architect-awesome</a></p>]]></content>
     
     <summary type="html">
     
