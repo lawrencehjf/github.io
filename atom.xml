@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-04T06:53:58.047Z</updated>
+  <updated>2020-06-06T09:12:11.552Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020-06-06-1</title>
+    <link href="http://yoursite.com/2020/06/06/2020-06-06-1/"/>
+    <id>http://yoursite.com/2020/06/06/2020-06-06-1/</id>
+    <published>2020-06-06T09:03:55.593Z</published>
+    <updated>2020-06-06T09:12:11.552Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020-06-06</title>
+    <link href="http://yoursite.com/2020/06/06/2020-06-06/"/>
+    <id>http://yoursite.com/2020/06/06/2020-06-06/</id>
+    <published>2020-06-06T03:13:08.434Z</published>
+    <updated>2020-06-06T09:43:55.549Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="技能树点亮计划"><a href="#技能树点亮计划" class="headerlink" title="技能树点亮计划"></a>技能树点亮计划</h1><h1 id="iOS-客户端"><a href="#iOS-客户端" class="headerlink" title="iOS 客户端"></a>iOS 客户端</h1><p>Swift<br>OC<br>#Web<br>vue、react<br>#Java<br>##基础<br>常见集合实现原理<br>多线程<br>队列<br>设计模式<br>##进阶<br>spring框架原理【IoC、DI、动态注入/静态代理】<br>mybatis框架原理<br>##高级：<br>微服务 SpringCloud、Dubble<br>RPC、大型复杂项目高可用、分布式<br>#MySQL<br>SQL 调优<br>索引设计<br>底层设计原理、btree<br>存储引擎 MyISAM vs InnoDB<br>分库分表<br>##大数据<br>##基础<br>Hadoop生态<br>    hdfs、yarn、MapReduce<br>Linux基础</p><p>##进阶<br>spark、flink、kafka架构与原理<br>##高级：<br>数据治理、主句中台、数据仓库 可行性架构【技术+业务】方案<br>架构文档产出<br>#数据结构&amp;算法<br>low：<br>middle：<br>high：</p><p>#架构师之路：<br>#CTO之路？<br>#算法、IOT、物联网？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;技能树点亮计划&quot;&gt;&lt;a href=&quot;#技能树点亮计划&quot; class=&quot;headerlink&quot; title=&quot;技能树点亮计划&quot;&gt;&lt;/a&gt;技能树点亮计划&lt;/h1&gt;&lt;h1 id=&quot;iOS-客户端&quot;&gt;&lt;a href=&quot;#iOS-客户端&quot; class=&quot;headerlink
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2020-06-04</title>
@@ -131,9 +175,9 @@
     <link href="http://yoursite.com/2020/06/01/2020-06-01/"/>
     <id>http://yoursite.com/2020/06/01/2020-06-01/</id>
     <published>2020-06-01T02:58:06.102Z</published>
-    <updated>2020-06-01T08:46:42.776Z</updated>
+    <updated>2020-06-06T10:07:28.215Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>###《程序员修炼之道：从小工到专家.pdf》<br>    wuchong.me 微博推荐<br>###《后端架构师技术图谱》<br>       [吴俊笔记本] <a href="https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/" target="_blank" rel="noopener">https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/</a><br>        <a href="https://github.com/xingshaocheng/architect-awesome" target="_blank" rel="noopener">https://github.com/xingshaocheng/architect-awesome</a></p><p>###吴军豆瓣<br><a href="https://book.douban.com/subject_search?search_text=%E5%90%B4%E5%86%9B" target="_blank" rel="noopener">https://book.douban.com/subject_search?search_text=%E5%90%B4%E5%86%9B</a><br>浪潮之巅<br>9.0(26115人评价)<br>吴军 / 电子工业出版社 / 2011-8 / 55.00元<br>数学之美<br>8.7(10649人评价)<br>吴军 / 人民邮电出版社 / 2012-5-1 / 45.00元<br>智能时代 : 大数据与智能革命重新定义未来<br>智能时代 : 大数据与智能革命重新定义未来<br>8.4(5934人评价)<br>吴军 / 中信出版集团 / 2016-8 / 68.00<br>文明之光（第一册）<br>9.0(4362人评价)<br>吴军 / 人民邮电出版社 / 2014-6-25 / 59.00元<br>豆瓣书店有售<br>见识 : 商业的本质和人生的智慧<br>见识 : 商业的本质和人生的智慧<br>8.1(3844人评价)<br>[美]吴军 / 中信出版社 / 2017-10 / 78.00<br>数学之美 （第二版）<br>8.9(3643人评价)<br>吴军 / 人民邮电出版社 / 2014-11 / 49.00元<br>豆瓣书店有售<br>见识<br>见识<br>8.0(4928人评价)<br>吴军 / 中信出版集团股份有限公司 / 2018-3 / CNY 49.00元<br>豆瓣书店有售<br>浪潮之巅（第2版）（套装上下册）<br>浪潮之巅（第2版）（套装上下册）<br>9.2(3123人评价)<br>吴军 / 人民邮电出版社 / 2013-7 / 80.00元<br>全球科技通史<br>全球科技通史<br>8.4(1230人评价)<br>[美] 吴军 / 中信出版集团 / 2019-4 / 88<br>豆瓣书店有售<br>浪潮之巅（第四版）（上下册）<br>浪潮之巅（第四版）（上下册）<br>9.1(447人评价)<br>吴军 / 人民邮电出版社 / 2019-6 / 139.00元<br>格局 : 格局的大小决定成就的顶点<br>格局 : 格局的大小决定成就的顶点<br>7.9(791人评价)<br>吴军 / 中信 / 2019-9 / 69<br>态度 : 吴军家书<br>态度 : 吴军家书<br>8.1(4050人评价)<br>吴军 / 中信出版社 / 2018-11 / 59<br>豆瓣书店有售<br>硅谷之谜 : 《浪潮之巅》续集<br>硅谷之谜 : 《浪潮之巅》续集<br>8.4(2061人评价)<br>吴军 / 人民邮电出版社 / 2015-12-1 / 59.00<br>豆瓣书店有售<br>大学之路（套装） : 陪女儿在美国选大学<br>大学之路（套装） : 陪女儿在美国选大学<br>8.7(1920人评价)<br>吴军 / 人民邮电出版社 / 2015-8-1 / 72.00元<br>浪潮之巅（第三版）（上下册）<br>浪潮之巅（第三版）（上下册）<br>9.2(1422人评价)<br>吴军 / 人民邮电出版社 / 2016-5 / 99.00元</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h1><h2 id="To-be-read"><a href="#To-be-read" class="headerlink" title="To be read"></a>To be read</h2><p>###《程序员修炼之道：从小工到专家.pdf》<br>    wuchong.me 微博推荐<br>###《后端架构师技术图谱》<br>       [吴俊笔记本] <a href="https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/" target="_blank" rel="noopener">https://wujun234.github.io/2020/01/07/05%20Java/00%20Java%20%E5%9F%BA%E7%A1%80/07%20%E5%B9%B6%E5%8F%91/4%20%E5%90%8C%E6%AD%A5%E5%99%A8/</a><br>        <a href="https://github.com/xingshaocheng/architect-awesome" target="_blank" rel="noopener">https://github.com/xingshaocheng/architect-awesome</a></p><p>###吴军豆瓣<br><a href="https://book.douban.com/subject_search?search_text=%E5%90%B4%E5%86%9B" target="_blank" rel="noopener">https://book.douban.com/subject_search?search_text=%E5%90%B4%E5%86%9B</a><br>浪潮之巅<br>数学之美<br>智能时代 : 大数据与智能革命重新定义未来<br>文明之光（第一册）<br>见识 : 商业的本质和人生的智慧<br>全球科技通史<br>格局 : 格局的大小决定成就的顶点<br>态度 : 吴军家书<br>硅谷之谜 : 《浪潮之巅》续集<br>大学之路（套装） : 陪女儿在美国选大学</p><p>###《数据中台：让数据用起来》<br>[<a href="https://mp.weixin.qq.com/s/vdODdbraouHq0MEJekhvAw]" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/vdODdbraouHq0MEJekhvAw]</a><br>###《数据中台建设五步法》<br>[<a href="https://mp.weixin.qq.com/s/S-76QzniFejCp4XtvGOEBA]" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/S-76QzniFejCp4XtvGOEBA]</a><br>[本文内容节选自《数据中台架构——企业数据化最佳实践》（张旭，戴丽，訚赛华等著，电子工业出版社出版）]</p>]]></content>
     
     <summary type="html">
     
